@@ -1,0 +1,26 @@
+<annotation>
+	<folder>difficult_dirt_shadows</folder>
+	<filename>4.JPG</filename>
+	<path>C:\Project\zip\difficult_dirt_shadows\4.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>312</ymin>
+			<xmax>388</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

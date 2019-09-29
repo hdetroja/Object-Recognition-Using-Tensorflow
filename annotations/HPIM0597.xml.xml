@@ -1,0 +1,26 @@
+<annotation>
+	<folder>day_color(large sample)</folder>
+	<filename>HPIM0597.JPG</filename>
+	<path>C:\Project\zip\day_color(large sample)\HPIM0597.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1792</width>
+		<height>1312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>613</xmin>
+			<ymin>318</ymin>
+			<xmax>1023</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>day_color(large sample)</folder>
+	<filename>74.JPG</filename>
+	<path>C:\Project\zip\day_color(large sample)\74.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>182</ymin>
+			<xmax>367</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>
