@@ -2,7 +2,7 @@
 You can train your own model using the framework.
 
 Folder Structure:
-+ annotations: contains the xml files in PASCAL VOC format
++ annotations: done using labelimg tool contains the xml files in PASCAL VOC format
 + data: contains the input file for the TF object detection API and the label files (csv)
 + images: contains the image data in jpg format
 + training: contains the pipeline configuration file, frozen model and labelmap
